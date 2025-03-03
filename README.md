@@ -1,4 +1,4 @@
-Hello World, I'm Varunkumar M S 👋🏽
+Hello World, Suprith N 👋🏽
 A self-taught Full Stack Web Developer.
 
 I develop web applications in Next.js and React.js.
